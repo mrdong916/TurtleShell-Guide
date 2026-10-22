@@ -1,0 +1,41 @@
+[
+  {
+    "group": "oppo-oneplus",
+    "name": "CarPlus",
+    "package": "com.oplus.ocar",
+    "code": "16028005",
+    "version": "16.28.5_02f8330_202607101915",
+    "bytes": 42537165,
+    "sha256": "58c3138ca3a5a13bf89813166e169786e68d45b15948095bc4b6f4d2f204f54d",
+    "certificateSha256": "fc98dae63ad39626c8c67fbe83f2f06f74932a9cd146b92cecfc6a047a904386",
+    "file": "CarPlus_16.28.5_02f8330_202607101915_16028005.apk",
+    "asset": "oppo-oneplus__CarPlus_16.28.5_02f8330_202607101915_16028005.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/oppo-oneplus__CarPlus_16.28.5_02f8330_202607101915_16028005.apk"
+  },
+  {
+    "group": "oppo-oneplus",
+    "name": "CarLink",
+    "package": "com.heytap.opluscarlink",
+    "code": "1604002",
+    "version": "16.4.2",
+    "bytes": 18060415,
+    "sha256": "2f0d7f0a628104dc89e4c472bc748045f08effa382b074f95c26b9d6cb22d112",
+    "certificateSha256": "64aafaf1d5bc9155a9e417a849e4f8eda1d0d1341667c28ed7c443c76f820b9a",
+    "file": "CarLink_16.4.2_1604002.apk",
+    "asset": "oppo-oneplus__CarLink_16.4.2_1604002.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/oppo-oneplus__CarLink_16.4.2_1604002.apk"
+  },
+  {
+    "group": "oppo-oneplus",
+    "name": "CarLife",
+    "package": "com.baidu.carlife.oppo",
+    "code": "260",
+    "version": "8.6.8",
+    "bytes": 82984387,
+    "sha256": "34ba512ff2b5d88cb8a8870f3e1c86771d7452a3354bfec62aae69ec2348c781",
+    "certificateSha256": "509e03e376b676b25adc41c3dbda6dfa5d0ff12dba1c8c0ca32ad110eea78667",
+    "file": "CarLife_8.6.8_260.apk",
+    "asset": "oppo-oneplus__CarLife_8.6.8_260.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/oppo-oneplus__CarLife_8.6.8_260.apk"
+  }
+]

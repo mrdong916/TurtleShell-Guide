@@ -1,0 +1,15 @@
+[
+  {
+    "group": "honor",
+    "name": "CarLife",
+    "package": "com.baidu.carlife.honor",
+    "code": "274",
+    "version": "8.8.5",
+    "bytes": 115103595,
+    "sha256": "7aa48f520a71fc02fa1ac658383ba851250befe328e77818cde1c31eab87e670",
+    "certificateSha256": "509e03e376b676b25adc41c3dbda6dfa5d0ff12dba1c8c0ca32ad110eea78667",
+    "file": "CarLife_8.8.5_274.apk",
+    "asset": "honor__CarLife_8.8.5_274.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/honor__CarLife_8.8.5_274.apk"
+  }
+]

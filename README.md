@@ -6,7 +6,7 @@
 
 复用手机上的车联界面，让导航、音乐和触摸操作延伸到车机。
 
-[下载与版本](https://github.com/mrdong916/TurtleShell-Guide/releases) · [安装连接](#安装与连接) · [兼容情况](#兼容与实测) · [加入交流群](#加入交流群) · [支持项目](#支持项目) · [问题反馈](https://github.com/mrdong916/TurtleShell-Guide/issues)
+[原厂组件](components/README.md) · [下载与版本](https://github.com/mrdong916/TurtleShell-Guide/releases) · [安装连接](#安装与连接) · [兼容情况](#兼容与实测) · [加入交流群](#加入交流群) · [支持项目](#支持项目) · [问题反馈](https://github.com/mrdong916/TurtleShell-Guide/issues)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 项目介绍
 
-本仓库是龟壳的公开介绍与使用指南，仅包含本文和进群、打赏二维码，不包含应用源码或 APK。
+本仓库提供龟壳公开使用指南、原厂车联组件下载索引，以及进群和打赏二维码，不包含应用源码。原厂 APK 保存在本仓库 Releases，按厂商目录索引。
 
 龟壳是一个实验性的 Android **无线 CarPlay 发送端**。它连接手机原生车联能力，将画面和支持的媒体声音传到车机，并把车机触摸、媒体按键传回手机。
 
@@ -50,7 +50,17 @@
 
 ## 下载与准备
 
-本仓库目前仅提供说明文档，尚未上传 APK。可在 [Releases](https://github.com/mrdong916/TurtleShell-Guide/releases) 查看发布情况，或加入下方交流群了解测试进展。
+已收录 **11 个原厂组件 APK**，包括 CarWith **3.0.1、3.8.3、4.0.6**，以及小米、OPPO、vivo、荣耀、三星各自的 CarLife 定制版。
+
+| 手机 / ROM 家族 | 组件目录 |
+| --- | --- |
+| 小米 / 红米（含小米 17、K70 Pro 提取样本） | [CarWith 与小米 CarLife](components/xiaomi-redmi/README.md) |
+| OPPO / 一加 | [Car+、CarLink 与 OPPO CarLife](components/oppo-oneplus/README.md) |
+| vivo / iQOO 候选 | [vivo CarLife](components/vivo-iqoo/README.md) |
+| 荣耀 | [荣耀 CarLife](components/honor/README.md) |
+| 三星 | [三星车联与三星 CarLife](components/samsung/README.md) |
+
+下载链接、真实包名、版本和 SHA-256 见各目录或 [组件总目录](components/README.md)。这是原厂组件归档，**不代表所有机型已支持，也不是跨品牌通用安装包**。龟壳主 APK 与配套 Hook 的发布情况另见 [Releases](https://github.com/mrdong916/TurtleShell-Guide/releases)。
 
 ### 基本条件
 

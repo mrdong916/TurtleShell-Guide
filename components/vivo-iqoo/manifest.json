@@ -1,0 +1,15 @@
+[
+  {
+    "group": "vivo-iqoo",
+    "name": "CarLife",
+    "package": "com.baidu.carlife.vivo",
+    "code": "273",
+    "version": "8.8.4",
+    "bytes": 48396610,
+    "sha256": "17cc63fb15a437a3d585c0db17598227c02adfefe2c62b7888b6bd895d96867b",
+    "certificateSha256": "509e03e376b676b25adc41c3dbda6dfa5d0ff12dba1c8c0ca32ad110eea78667",
+    "file": "CarLife_8.8.4_273.apk",
+    "asset": "vivo-iqoo__CarLife_8.8.4_273.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/vivo-iqoo__CarLife_8.8.4_273.apk"
+  }
+]

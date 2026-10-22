@@ -1,0 +1,28 @@
+[
+  {
+    "group": "samsung",
+    "name": "SamsungCarLink",
+    "package": "com.samsung.android.carlink",
+    "code": "320000038",
+    "version": "3.2.00.38",
+    "bytes": 59098478,
+    "sha256": "51a0d52ab9300c8aa7d971143c75efbed5cb48ea98de56021242340f8d34a4e9",
+    "certificateSha256": "34df0e7a9f1cf1892e45c056b4973cd81ccf148a4050d11aea4ac5a65f900a42",
+    "file": "SamsungCarLink_3.2.00.38_320000038.apk",
+    "asset": "samsung__SamsungCarLink_3.2.00.38_320000038.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/samsung__SamsungCarLink_3.2.00.38_320000038.apk"
+  },
+  {
+    "group": "samsung",
+    "name": "CarLife",
+    "package": "com.baidu.carlife.samsung",
+    "code": "259",
+    "version": "8.6.7",
+    "bytes": 83017805,
+    "sha256": "2a217e7849118cfe5cabc09a2926375850af6161ee5e47b619eec0ede2fda99e",
+    "certificateSha256": "509e03e376b676b25adc41c3dbda6dfa5d0ff12dba1c8c0ca32ad110eea78667",
+    "file": "CarLife_8.6.7_259.apk",
+    "asset": "samsung__CarLife_8.6.7_259.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/samsung__CarLife_8.6.7_259.apk"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "group": "xiaomi-redmi",
+    "name": "CarWith",
+    "package": "com.miui.carlink",
+    "code": "103008003",
+    "version": "3.8.3-20260203",
+    "bytes": 62321616,
+    "sha256": "81608377d4d32256d7c0f4b1ff1070267ca889b49791eebd188827135cbbc8ba",
+    "certificateSha256": "c9009d01ebf9f5d0302bc71b2fe9aa9a47a432bba17308a3111b75d7b2149025",
+    "file": "CarWith_3.8.3-20260203_103008003.apk",
+    "asset": "xiaomi-redmi__CarWith_3.8.3-20260203_103008003.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/xiaomi-redmi__CarWith_3.8.3-20260203_103008003.apk"
+  },
+  {
+    "group": "xiaomi-redmi",
+    "name": "CarWith",
+    "package": "com.miui.carlink",
+    "code": "103000001",
+    "version": "3.0.1-20240722",
+    "bytes": 58535766,
+    "sha256": "e3f4ec221417000c25312c8ec2643094da7e53f529a89cee73d9058912b516a4",
+    "certificateSha256": "c9009d01ebf9f5d0302bc71b2fe9aa9a47a432bba17308a3111b75d7b2149025",
+    "file": "CarWith_3.0.1-20240722_103000001.apk",
+    "asset": "xiaomi-redmi__CarWith_3.0.1-20240722_103000001.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/xiaomi-redmi__CarWith_3.0.1-20240722_103000001.apk"
+  },
+  {
+    "group": "xiaomi-redmi",
+    "name": "CarWith",
+    "package": "com.miui.carlink",
+    "code": "104000006",
+    "version": "4.0.6-20260603",
+    "bytes": 63933969,
+    "sha256": "1cb9dd4f9ddf2424cd32313853f46561ea54ca6ea0465ba20752dcf35ec65394",
+    "certificateSha256": "c9009d01ebf9f5d0302bc71b2fe9aa9a47a432bba17308a3111b75d7b2149025",
+    "file": "CarWith_4.0.6-20260603_104000006.apk",
+    "asset": "xiaomi-redmi__CarWith_4.0.6-20260603_104000006.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/xiaomi-redmi__CarWith_4.0.6-20260603_104000006.apk"
+  },
+  {
+    "group": "xiaomi-redmi",
+    "name": "CarLife",
+    "package": "com.baidu.carlife.xiaomi",
+    "code": "258",
+    "version": "8.6.6",
+    "bytes": 82984606,
+    "sha256": "d93b3c8c5fd8978de7219bc4d84cbe2dcb970698c7e48f27dd603300f74d0b20",
+    "certificateSha256": "509e03e376b676b25adc41c3dbda6dfa5d0ff12dba1c8c0ca32ad110eea78667",
+    "file": "CarLife_8.6.6_258.apk",
+    "asset": "xiaomi-redmi__CarLife_8.6.6_258.apk",
+    "download": "https://github.com/mrdong916/TurtleShell-Guide/releases/download/oem-components-2026-10-22/xiaomi-redmi__CarLife_8.6.6_258.apk"
+  }
+]
