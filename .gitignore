@@ -1,0 +1,16 @@
+.DS_Store
+
+# APKs belong in Release assets, not Git history.
+*.apk
+*.apks
+*.aab
+
+# Local signing material, configuration and raw logs.
+*.jks
+*.keystore
+*.key
+*.pem
+keystore.properties
+.env
+.env.*
+*.log
