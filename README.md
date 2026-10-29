@@ -36,13 +36,13 @@
 
 <p align="center">
   <a href="docs/images/wechat-group.jpg">
-    <img src="docs/images/wechat-group.jpg" width="360" alt="微信进群二维码：别克6K大连屏公测群，2026 年 11 月 3 日前有效">
+    <img src="docs/images/wechat-group.jpg" width="360" alt="微信进群二维码：别克6K大连屏公测群，2026 年 11 月 5 日前有效">
   </a>
 </p>
 
 <p align="center">使用微信扫码进群，点击图片可查看原图。</p>
 
-> 图片标注二维码在 **2026 年 11 月 3 日前有效**。过期后请查看仓库更新的二维码。
+> 图片标注二维码在 **2026 年 11 月 5 日前有效**。过期后请查看仓库更新的二维码。
 
 ## 支持项目
 
